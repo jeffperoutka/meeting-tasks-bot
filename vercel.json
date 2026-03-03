@@ -1,0 +1,8 @@
+{
+  "crons": [
+    {
+      "path": "/api/slack/nudge",
+      "schedule": "0 * * * *"
+    }
+  ]
+}
